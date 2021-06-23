@@ -1,4 +1,4 @@
-### Hello everyone 👋
+### About Me 👋
 
 📕 &nbsp;Bilkent CS '19 - MSc. Student at Bogazici CmpE\
 🌱 &nbsp;I'm currently learning more about Deep Learning and its applications.\
