@@ -10,6 +10,6 @@ You can use this api: https://github.com/busraoguzoglu/github-readme-stats
 -->
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=busraoguzoglu&show_icons=true">
-    <img width="35%" align="right" alt="Busra's github stats" src="https://github-readme-stats.vercel.app/api?username=busraoguzoglu&show_icons=true&hide_border=true" />
+    <img width="35%" align="left" alt="Busra's github stats" src="https://github-readme-stats.vercel.app/api?username=busraoguzoglu&show_icons=true&hide_border=true" />
   </a>
   </p>
