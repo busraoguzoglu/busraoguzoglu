@@ -6,3 +6,5 @@
 💬 &nbsp;Feel free to reach out for any questions or suggestions. Follow me on Medium! https://medium.com/@busra.oguzoglu
 
 ![Profile views](https://komarev.com/ghpvc/?username=busraoguzoglu)
+
+![GitHub stars](https://img.shields.io/github/stars/busraoguzoglu?style=social)
